@@ -1,4 +1,6 @@
-## Hi there 👋
+I primarily use GitHub for forking, submitting issues, and opening pull requests against other repositories hosted on GitHub.
+
+Most of my personal projects are on [codeberg.org/xq](https://codeberg.org/xq)
 
 <!--
 **mrak/mrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
